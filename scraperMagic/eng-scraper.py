@@ -43,10 +43,10 @@ def scrape_email_from_profile(profile_url):
     return email
 
 # Initialize the starting row index
-start_idx = 274
+start_idx = 1
 
 # Loop to scrape multiple pages
-for page_num in range(17, 18):  # Adjust the range as needed to scrape more pages
+for page_num in range(1, 18):  # Adjust the range as needed to scrape more pages
     faculty_data = scrape_mcmaster_faculty(page_num)
 
     # Add data to the Excel sheet and scrape emails from profile pages
