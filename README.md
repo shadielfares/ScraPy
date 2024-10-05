@@ -101,7 +101,7 @@ I have chosen not to include extensive documentation exploring all features and 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the CCC License - see the LICENSE file for details.
 
 ## Contributing 🤝
 
