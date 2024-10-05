@@ -28,3 +28,6 @@ excel-sheets/*
 
 # Include all files in the .venv directory
 !.venv/**
+
+./chromedriver
+./pyvenv.cfg
