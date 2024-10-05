@@ -1,0 +1,30 @@
+# Ignore the .env file
+.dotenv
+
+# Ignore everything in e-mailAssets directory
+e-mailAssets/
+
+# Ignore everything in site-packages
+.venv/Lib/site-packages/
+
+# Ignore the specific research.py file
+scraperMagic/research.py
+
+# Ignore chromedriver.exe
+chromedriver.exe
+
+# Ignore everything in vscode directory
+.vscode/
+
+# Ignore everything in excel-sheets except DUMMYDOC
+excel-sheets/*
+!excel-sheets/DUMMYDOC
+
+# Ignore everything in idea directory
+.idea/
+
+# Ignore the .venv directory itself
+.venv/
+
+# Include all files in the .venv directory
+!.venv/**
