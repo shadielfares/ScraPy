@@ -2,6 +2,8 @@
 
 ScraPy is a Python-based tool designed to send out research emails efficiently. This repository contains scripts that automate the process of scraping data and sending emails. Instead of sending specific emails to each person, I've opted for a more streamlined approach by asking for coffee chats, believing it would be more effective. In the future, I intend to implement an AI agent that will scrape each professor's entry and tailor the emails specifically to them. 🤖✨
 
+NOTE: Clicking on the "Wiki" section at the top of this repo will show you some of the results this project yielded.
+
 ## Prerequisites ✅
 
 Before you can run any scripts in this project, make sure you have the latest version of [Python 3](https://www.python.org/downloads/) installed.
